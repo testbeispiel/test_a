@@ -1,4 +1,4 @@
-#include"funktion.h"
+#include"funktion.h" //durch Anführungszeichen wird zuerst lokal nach Header-Datei gesucht
 #include<iostream>
 using namespace std;
 
